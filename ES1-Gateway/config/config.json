@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "es1",
+    "password": "gateway",
+    "database": "es1_gateway_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "es1",
+    "password": "gateway",
+    "database": "es1_gateway_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
+
